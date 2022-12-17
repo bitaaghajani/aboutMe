@@ -70,4 +70,7 @@ span {
     body {
         display: block;
     }
+    div{
+        margin: auto;
+    }
 }
